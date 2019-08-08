@@ -5,6 +5,7 @@
 #include <time.h>
 
 /*
+
 Objective:
 Simulate a game of GAA, i.e. Donegal vs Derry.
 
