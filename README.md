@@ -1,4 +1,5 @@
 # GAA_Game
+TEST CI
 
 Objective:
 Simulate a game of GAA, i.e. Donegal vs Derry.
