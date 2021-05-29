@@ -1,7 +1,5 @@
 # GAA_Game
 
-TEST CI Monday
-
 Objective:
 Simulate a game of GAA, i.e. Donegal vs Derry.
 
