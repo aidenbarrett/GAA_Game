@@ -100,11 +100,12 @@ class Player : public Team
   void NumberOfPlayers();
   void PlayerNames();
   void PlayerHealth();
+  void PlayerFitness();
 
   private:
 };
 
-class Level : Team
+class Level : public Team
 {
   public:
 
@@ -118,7 +119,7 @@ class Attack : public Game
 {
   public:
 
-  void AttackNow();
+  void Attack();
   void AttackResult();
 
   private:
